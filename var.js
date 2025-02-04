@@ -27,3 +27,7 @@ const n9=2;
 console.log(n9**0);
 //+ sujungia
 //matematine biblioteka Math
+console.log(Math.E);
+console.log(Math.PI);
+//butini skliaustai abs() su radianais
+console.log(Math.abs(-5));
